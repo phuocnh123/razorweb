@@ -51,5 +51,7 @@ namespace MyWebApp
 }
 
 /**
+    CRUD
 
+    dotnet aspnet-codedenerrator razorpage -m MyWebApp.Article -dc MyWebApp.MyBlogContext -outDir Pages/Blog -udl --referenceScriptLibraries
 */
